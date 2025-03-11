@@ -2,7 +2,7 @@
 
 1. **Eclipse Temurin Installer**:
    - This plugin enables Jenkins to automatically install and configure the Eclipse Temurin JDK (formerly known as AdoptOpenJDK).
-   - To install, go to Jenkins dashboard -> Manage Jenkins -> Manage Plugins -> Available tab.
+   - To install, go to Jenkins dashboard -> Manage Jenkins -> Manage Plugins -> Available tab
    - Search for "Eclipse Temurin Installer" and select it.
    - Click on the "Install without restart" button.
 
